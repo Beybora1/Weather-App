@@ -1,0 +1,126 @@
+body{
+    font-family: Arial, sans-serif;
+    background-image:linear-gradient(to bottom,hsl(0, 0%, 86%) 50%,hsl(0, 0%, 91%) 50%);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    height: 500px;
+    width: 350px;
+    border: none;
+    text-align: center;
+    border: 1px solid #aaa0a0e1;
+    background: linear-gradient(270deg, #c4f1ff, #80bfff);
+    border-radius: 20px;
+    
+}
+
+.btn{
+    margin-top: 30px;
+    height: 42.5px;
+    width: 55px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #b0e8b1d6;
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+    margin: 7.5px;
+}
+
+.txt{
+    margin-top: 30px;
+    width: 200px;
+    height: 25px;
+    border: 1px solid gray ;
+    border-radius: 5px;
+    padding: auto;
+    padding: 7.5px;
+    font-size: 20px;
+}
+
+.div1{
+    margin-top: 15px;
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 7.5px;
+}
+
+
+.div1 img{
+    height: 40px;
+    width: 40px;
+    margin-bottom: 2px;
+}
+
+.div2{
+    margin-top: 18px;
+}
+
+.div2 img{
+    width: 130px;
+    height: 130px;
+}
+
+.div3{
+    margin-top: 30px;
+    font-size: 25px;
+}
+
+.div4{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+}
+
+.span1{
+    height: 50px;
+    width: 75px;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    row-gap: 5px;
+    border-radius: 7px;
+    background-color: #A8DADC;
+    
+}
+
+.span2{
+    height: 50px;
+    width: 75px;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    row-gap: 5px;
+    border-radius: 7px;
+    background-color: #E0C3FC;
+}
+
+
+.span3{
+    height: 50px;
+    width: 75px;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    row-gap: 5px;
+    border-radius: 7px;
+    background-color: #f5a6;
+}
+
+
+
