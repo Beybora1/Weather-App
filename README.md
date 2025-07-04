@@ -1,4 +1,4 @@
-# ☁️ Basit Hava Durumu Uygulaması / Simple Weather App
+# ☁️ Hava Durumu Uygulaması / Weather App
 
 Bu proje, API kullanarak anlık hava durumu bilgisini gösteren basit bir web uygulamasıdır.
 
