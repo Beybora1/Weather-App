@@ -18,4 +18,4 @@ This project is a simple web app that displays real-time weather information usi
 - **HTML**
 - **CSS**
 - **JavaScript (Fetch API)**
-- Hava Durumu API’si *(örn: OpenWeatherMap, WeatherAPI, vs.)*
+- Hava Durumu API’si *(OpenWeatherMap)*
