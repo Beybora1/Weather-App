@@ -5,7 +5,7 @@ let result = document.getElementById("result");
 let btn1 = document.getElementById("btn1");
 
 function havaDurumu(){
-    let apiKey = '056bea034162d59129c21156c80e66a6';
+    let apiKey = '[your API Key]';
     let city = txt1.value;
 
     if(city == ""){
