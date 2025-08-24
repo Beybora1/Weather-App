@@ -92,7 +92,7 @@ function havaDurumu(){
 function fonksiyon(){
 
 
-    let apiKey = '056bea034162d59129c21156c80e66a6';
+    let apiKey = '[your API Key]';
     let city = 'İstanbul';
 
     if(city == ""){
